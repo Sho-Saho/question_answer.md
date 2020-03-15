@@ -14,6 +14,9 @@ end　　
 *false*も*true*の場合と同様ですね！  
 if false # falseという値そのもの
   puts "あなたは未成年です(4)" # 処理は実行されない
-end　　
+end　
+
 リンク　　[Rubyのtrueとfalseの話](https://qiita.com/rotelstift/items/70461f35c0d691e7b246)　　
+
+
 結論：条件文には真偽値だけ書けるようにしておけばいい！　　
